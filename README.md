@@ -62,7 +62,7 @@ Community Water Project Research Fellow
 - Precisely administered of hand pollination of B. rapa plants with mixed pollen loads 
 - Conducted data analysis examining the female mate-choice of select pollen.  
 
-##Scholarships & Grants
+## Scholarships & Grants
 *Spring 2024/2025: Total ($ 4,000)*
 Creative Arts, Research, and Scholarship (2024) - $4,000 
 
@@ -77,7 +77,7 @@ Ambler Field Station Summer Course Scholarship (2023) - $1000
 Temple University Scholarship ($2,500) 
 Temple University Transfer Conwell Award ($2,000) 
 
-##Presentations
+## Presentations
 
 Kelly, C., Hodges, G., Droese, S. (2023) Impact of Disturbance on Bird Presence in Old Growth Forest Locations. Presented at the Temple University Ambler Field Station Summer Research Symposium. Impact of Disturbance on Bird Presence 
 
