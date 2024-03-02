@@ -11,18 +11,20 @@
 **Temple University | BS Ecology, Evolution, and Biodiversity**
 
 *Fall 2022 - Fall 2024*
+
 Temple University, College of Science and Technology, Philadelphia, PA 
 B.S. in Ecology, Evolution, and Biodiversity, 
 Anticipated Graduation: December 2024	
 Honors: Dean’s Scholarship, Dean’s List, GPA – 3.85 
 
-**Relevant Coursework ** 
+**Relevant Coursework** 
 Genetics, Advanced Study in Ecology, R Boot Camp for Ecologists and Wildlife Biologists, Global Change Science: Analytics with R. Ecology of Invasive Species, Marine Ecology, Human Ecology, Research Techniques in Community Ecology, Remote Sensing and GIS, Animal Behavior, Principles of Ecology, Natural History of Invertebrates, Comparative Animal Physiology, Ecology, Evolution and Organismal Biodiversity, Research Skills in Biology 
 
 
-## Research Experience
+## Research Experience##
 
 **Assessing the impact of chemical treatments conducted on *A. Altissima* on *L. delicatula* populations**
+
 *December 2023 - Current | Temple University, Ambler Field Station, Ambler, PA *
 
 Creative Arts Research, and Scholarship Research Award ($4,000)
@@ -32,7 +34,7 @@ Creative Arts Research, and Scholarship Research Award ($4,000)
 - Analyze samples from circle trap collection bags, practicing invertebrate identificaion using physcial and digital tools.  
 - Conduct focal tree collection bag data management, cleaning, and analysis in RStudio  
 
-This project utilizes a data science approach by conducting RStudio Analysis to assess the impact of chemical treatments applied to Tree of Heaven (TOH) upon Spotted Lanternfly (SLF) populations. Invasive species are increasingly prevalent, and understanding the dynamics of *L. delicatula* and it's interactions with the environment **EXPAND**    
+This project utilizes a data science approach by conducting RStudio Analysis to assess the impact of chemical treatments applied to Tree of Heaven (TOH) upon Spotted Lanternfly (SLF) populations. Invasive species are increasingly prevalent, and understanding the dynamics of *L. delicatula* and it's interactions with the environment.     
 
 
 **Assessing the impact of *L. delicatula* upon trees native to SE Pennsylvania**
