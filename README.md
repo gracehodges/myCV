@@ -2,10 +2,7 @@
 ## **Grace Hodges**
 ### **Ecology, Evolution, and Biodiversity B.S Student**
 [Email](mailto:grace.hodges@temple.edu)
-- _Ambler Field Station_ 
-- Department of Biology
-- Temple University
-
+- _Temple University Ambler Field Station_ 
 
 ## Education
 **Temple University | BS Ecology, Evolution, and Biodiversity**
@@ -21,7 +18,7 @@ Honors: Dean’s Scholarship, Dean’s List, GPA – 3.85
 Genetics, Advanced Study in Ecology, R Boot Camp for Ecologists and Wildlife Biologists, Global Change Science: Analytics with R. Ecology of Invasive Species, Marine Ecology, Human Ecology, Research Techniques in Community Ecology, Remote Sensing and GIS, Animal Behavior, Principles of Ecology, Natural History of Invertebrates, Comparative Animal Physiology, Ecology, Evolution and Organismal Biodiversity, Research Skills in Biology 
 
 
-## Research Experience##
+## Research Experience
 
 **Assessing the impact of chemical treatments conducted on *A. Altissima* on *L. delicatula* populations**
 
@@ -58,14 +55,14 @@ Community Water Project Research Fellow
 - Conducted assessments of water quality, soil hydrology, tree-ring analysis, and environmental monitoring  
 [Website](https://gsa.confex.com/gsa/2022NC/webprogram/Paper375706.html) 
 
-##Greenhouse Technician## 
+**Greenhouse Technician**
 *November 2019 – May 2022 | The College of Wooster Biology Department, Wooster OH* 
 
 - Maintained care of several hundred Brassica rapa (B. Rapa) plant individuals 
 - Precisely administered of hand pollination of B. rapa plants with mixed pollen loads 
 - Conducted data analysis examining the female mate-choice of select pollen.  
 
-##Scholarships & Grants##
+##Scholarships & Grants
 *Spring 2024/2025: Total ($ 4,000)*
 Creative Arts, Research, and Scholarship (2024) - $4,000 
 
