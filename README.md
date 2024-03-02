@@ -1,123 +1,87 @@
 # **CURRICULUM VITAE**
-## **Samuel M. Owens**
-### **PhD Biology Student**
-[Website](https://sites.temple.edu/smowens/) | [Email](mailto:sam.owens@temple.edu)
-- _Integrative Ecology Lab_ 
-- Department of Biology | Center for Biodiversity
+## **Grace Hodges**
+### **Ecology, Evolution, and Biodiversity B.S Student**
+[Email](mailto:grace.hodges@temple.edu)
+- _Ambler Field Station_ 
+- Department of Biology
 - Temple University
 
 
 ## Education
-**Temple University | PhD Biology**
+**Temple University | BS Ecology, Evolution, and Biodiversity**
 
-*Spring 2022 - Current*
-- Graduate Advisor: Matthew Helmus, PhD
-- Thesis: "Modeling climate change effects on the establishment of the invasive *L. delicatula*"
+*Fall 2022 - Fall 2024*
+Temple University, College of Science and Technology, Philadelphia, PA 
+B.S. in Ecology, Evolution, and Biodiversity, 
+Anticipated Graduation: December 2024	
+Honors: Dean’s Scholarship, Dean’s List, GPA – 3.85 
 
-
-**Liberty University | BS Zoology, minor in Chemistry**
-
-*Fall 2015 - Spring 2019*
-- Undergraduate Advisor: Norman Reichenbach, PhD
-- graduate of the LU Eagle Scholars Leadership Program
-- Academic memberships: NSCS National Honor Society, Biology Club, Scientific Research Society
+**Relevant Coursework ** 
+Genetics, Advanced Study in Ecology, R Boot Camp for Ecologists and Wildlife Biologists, Global Change Science: Analytics with R. Ecology of Invasive Species, Marine Ecology, Human Ecology, Research Techniques in Community Ecology, Remote Sensing and GIS, Animal Behavior, Principles of Ecology, Natural History of Invertebrates, Comparative Animal Physiology, Ecology, Evolution and Organismal Biodiversity, Research Skills in Biology 
 
 
-## Research Projects
-**Modeling climate change effects on the establishment of the invasive *L. delicatula***
+## Research Experience
 
-*Spring 2022 - Current*
+**Assessing the impact of chemical treatments conducted on *A. Altissima* on *L. delicatula* populations**
+*December 2023 - Current | Temple University, Ambler Field Station, Ambler, PA *
 
-My project takes data science approach to tackle a biological issue. Invasive species are increasingly prevalent, and a massive amount of data has been compiled about invasion trends, so techniques need to be developed to utilize these biological datasets. I use the machine-learning software “MaxEnt” to make predictions about the risk of spread for L. delicatula, both currently and under climate change. I am developing this invasion prediction framework into an R package and website that will be freely distributed. 
+Creative Arts Research, and Scholarship Research Award ($4,000)
 
+- Design an independent research project examining the impact of chemical treatments applied to Tree of Heaven (TOH) upon Spotted Lanternfly (SLF) populations 
+- Develop an egg mass survey on ArcGIS Survey123 to quantify propagule pressure of SLF presence in focal locations.  
+- Analyze samples from circle trap collection bags, practicing invertebrate identificaion using physcial and digital tools.  
+- Conduct focal tree collection bag data management, cleaning, and analysis in RStudio  
 
-**Toxicological effects of atrazine and glyphosate on a crayfish ectosymbiont (*C. ingens*)**
-
-*Summer - Fall 2018*
-
-
-**Toxicological effects of atrazine on the Appalachian Brook Crayfish (*C. b. bartonii*)**		
-
-*Fall 2015- Spring 2018*
-
-## Grants
-**Liberty University Provost Research Initiative (PRI) Grant** 
-
-*$9,800 |	2017- 2018* 
-
-This grant is in support of research project to explore crayfish ecotoxicology. Project experimental design includes collaboration efforts with Dr. Mark Blais (histology) and Dr. Todd Allen (analytical chemistry)
-
-**Virginia Academy of Science poster presentation award** 
-
-*$750 |	2017*
-
-Research Grant award to support research on the effects of low-level Atrazine exposure on crayfish development.
+This project utilizes a data science approach by conducting RStudio Analysis to assess the impact of chemical treatments applied to Tree of Heaven (TOH) upon Spotted Lanternfly (SLF) populations. Invasive species are increasingly prevalent, and understanding the dynamics of *L. delicatula* and it's interactions with the environment **EXPAND**    
 
 
-## Teaching Experience
-**Instructor of Record for Introduction to Organismal Biology**
+**Assessing the impact of *L. delicatula* upon trees native to SE Pennsylvania**
+*May 2023 - Current | Temple University, Ambler Field Station, Ambler, PA*
 
-*Temple University Dept of Biology | Fall 2023*
-- Instructor for two weekly sections of the lab
--	Teaches techniques including FigTree and MEGA genetic analysis softwares, dissections
+Spotted Lanternfly Project Field Technician 
 
-**Spatial Data Analysis in R- Global Change Science**		
+- Maintain an array of semi-natural mesocosms for observation of impact of SLF on a series of trees and understory plants native to Pennsylvania
+- Lead teams of technicians and interns into the field to conduct health assessment surveys and maintain circle traps placed on focal trees across two campuses.
+- Collect detailed ecophysiological data on plants within the mesocosms, including soil moisture, chlorophyll content, water stress, leaf porosity, and visual health assessments
+- Conduct site visits to Fort Indiantown Gap Military Base (FIG) while representing the Temple Ambler Field Station.  
 
-*Temple University Dept of Biology | Spring 2023*
--	Created and taught a guest lecture
--	Taught basics of GIS analysis in R coding language using packages such as terra and stars'
+**The Community Water Project**
+*May 2021 – July 2021 | The College of Wooster Geology Department, Wooster, OH*
 
+Community Water Project Research Fellow 
 
-## Oral Presentations																				
+- Collaborate with a multidisciplinary team to generate an initial draft of an Ohio Non-Point Source Implementation Strategy (NPS-IS) for a local watershed 
+- Independently collect data using field equipment for the visualization of stream beds through cross sections and hydrological models 
+- Utilize ArcGIS Desktop to edit data, conduct analysis, and create maps of focal locations 
+- Conducted assessments of water quality, soil hydrology, tree-ring analysis, and environmental monitoring  
+[Website](https://gsa.confex.com/gsa/2022NC/webprogram/Paper375706.html) 
 
-“Low Level Atrazine Exposure Effects on Crayfish Development.” Presented at Big South Undergraduate Research Symposium, Spring 8th Annual Meeting, April 14, 2018.
+##Greenhouse Technician## 
+*November 2019 – May 2022 | The College of Wooster Biology Department, Wooster OH* 
 
+- Maintained care of several hundred Brassica rapa (B. Rapa) plant individuals 
+- Precisely administered of hand pollination of B. rapa plants with mixed pollen loads 
+- Conducted data analysis examining the female mate-choice of select pollen.  
 
-## Internships																								
-**Marine Ecotoxicology Summer Research Intern** 
+## Scholarships & Grants ##
+*Spring 2024/2025: Total ($ 4,000)*
+Creative Arts, Research, and Scholarship (2024) - $4,000 
 
-*Dauphin Island Sea Laboratory | Summer 2019*
--	Performed extractions of organic toxins from shellfish and fish tissues
--	Performed biochemical assays such as ELISA, protein assays for analyzing toxin content in tissue samples 
--	Analyzed results of assay using GraphPad Prism Statistical Analysis Software
--	Collected and prepared field samples blue-green algae 
--	Worked on HAB (harmful algal bloom) emergency response team for 2019 blue-green algal bloom off MS/AL coast
+*2023/2024: Total ($5,770)*
+Temple University Scholarship ($1,000) 
+Temple University Transfer Conwell Award ($2,000) 
+Temple University Grant ($1770) 
 
-**Intertidal Ecology Summer Intern** 
+Ambler Field Station Summer Course Scholarship (2023) - $1000 
 
-*Shoals Marine Laboratory | Summer 2018*
--	Expanded a long-term survey of the Appledore intertidal zone
--	Collaborated with other interns to perform survey according to National Park surveying method, various other methods
--	Analyzed large dataset for trends in abundance, performed statistical analysis for project
--	Produced professional poster for RARGOM conference (won best poster in Ecology)
+*2022/2023: Total ($4,500)* 
+Temple University Scholarship ($2,500) 
+Temple University Transfer Conwell Award ($2,000) 
 
+##Presentations##
 
-## Work Experience																			
+Kelly, C., Hodges, G., Droese, S. (2023) Impact of Disturbance on Bird Presence in Old Growth Forest Locations. Presented at the Temple University Ambler Field Station Summer Research Symposium. Impact of Disturbance on Bird Presence 
 
-**Laboratory Manager** 
+Wiesenberg, N., Abercrombie, C., Hodges, G., Wilson, L., Yoon, E., Braun, E., & Leisher, K., Chikomo, M & Banna, L., Pollock, M., & Wiles, G. (April, 2022). The Community Water Project: Student exploration of the geosciences in the context of stormwater management in northeast Ohio [Poster Presentation] GSA 2022 North-Central/Southeastern Joint Section Meeting, Cincinatti, OH, DOI:10.1130/abs/2022NC-375706 [Website](https://gsa.confex.com/gsa/2022NC/webprogram/Paper375706.html) 
 
-*Temple University Dept of Biology | July – November 2022*
--	Lead a research project funded by California Department of Food and Agriculture
--	Mentored eight undergraduate students in California DFA project
--	Produced machine learning models and figures for a grant report filed to California DFA
--	Oversaw administrative lab functions including conducting interviews
-
-**Laboratory Assistant** 
-
-*Temple University Dept of Genetics / Biochemistry | Feb 2020 – July 2022*
--	Independently planned and executed experiments involving SNP genotyping and Sanger sequencing 
--	Managed workflow and project assignments for temporary full-time workers
--	Worked in a high-throughput COVID-19 CLIA testing lab using an automated rt-PCR test
--	Performed tests by-hand. Helped to upscale and automate high throughput testing as part of an effort to execute Temple University COVID testing requirements for students
--	CLIA validation of clinical TTR test- Genotyped blood samples to screen for SNP causing inherited genetic disorders
--	Received, processed, and stored bariatric/neurology samples for a CLIA Biobank
--	Oversaw zebrafish husbandry for lab, performed maintenance on Aquaneering aquatic housing system
-
-**Instructor of Radio Telemetry** 
-
-*Liberty University Dept of Biology and Chemistry | Fall 2017 - Spring 2019*
--	Worked as TA of Ecology and main instructor for students in telemetry and mark-recapture techniques
--	Led mark-recapture study on urban population of eastern box turtle (T. c. carolina)
--	Used radio telemetry used to track turtles and determine home-range extent
--	Trained successor to take over position
-
+Abercrombie, C., Banna, L., Chikomo, M., Hodges, G., Leisher, K., Wilson, L., Yoon, E. (2021) The Community Water Project: Initial Exploration of Stormwater Management in Wayne County Ohio, Presented at the College of Wooster Experiential Learning Showcase, November 2021. [Website](https://wooster.edu/2021/10/17/amre-community-water/)
