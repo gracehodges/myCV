@@ -63,7 +63,7 @@ Community Water Project Research Fellow
 - Precisely administered of hand pollination of B. rapa plants with mixed pollen loads 
 - Conducted data analysis examining the female mate-choice of select pollen.  
 
-## Scholarships & Grants ##
+##Scholarships & Grants##
 *Spring 2024/2025: Total ($ 4,000)*
 Creative Arts, Research, and Scholarship (2024) - $4,000 
 
@@ -78,10 +78,10 @@ Ambler Field Station Summer Course Scholarship (2023) - $1000
 Temple University Scholarship ($2,500) 
 Temple University Transfer Conwell Award ($2,000) 
 
-##Presentations##
+##Presentations
 
 Kelly, C., Hodges, G., Droese, S. (2023) Impact of Disturbance on Bird Presence in Old Growth Forest Locations. Presented at the Temple University Ambler Field Station Summer Research Symposium. Impact of Disturbance on Bird Presence 
 
-Wiesenberg, N., Abercrombie, C., Hodges, G., Wilson, L., Yoon, E., Braun, E., & Leisher, K., Chikomo, M & Banna, L., Pollock, M., & Wiles, G. (April, 2022). The Community Water Project: Student exploration of the geosciences in the context of stormwater management in northeast Ohio [Poster Presentation] GSA 2022 North-Central/Southeastern Joint Section Meeting, Cincinatti, OH, DOI:10.1130/abs/2022NC-375706 [Website](https://gsa.confex.com/gsa/2022NC/webprogram/Paper375706.html) 
+Wiesenberg, N., Abercrombie, C., Hodges, G., Wilson, L., Yoon, E., Braun, E., & Leisher, K., Chikomo, M & Banna, L., Pollock, M., & Wiles, G. (April, 2022). The Community Water Project: Student exploration of the geosciences in the context of stormwater management in northeast Ohio [Poster Presentation] GSA 2022 North-Central/Southeastern Joint Section Meeting, Cincinatti, OH, DOI:10.1130/abs/2022NC-375706 [Citation](https://gsa.confex.com/gsa/2022NC/webprogram/Paper375706.html) 
 
 Abercrombie, C., Banna, L., Chikomo, M., Hodges, G., Leisher, K., Wilson, L., Yoon, E. (2021) The Community Water Project: Initial Exploration of Stormwater Management in Wayne County Ohio, Presented at the College of Wooster Experiential Learning Showcase, November 2021. [Website](https://wooster.edu/2021/10/17/amre-community-water/)
