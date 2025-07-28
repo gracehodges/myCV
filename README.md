@@ -1,18 +1,15 @@
 # **CURRICULUM VITAE**
 ## **Grace Hodges**
-### **Ecology, Evolution, and Biodiversity B.S Student**
-[Email](mailto:grace.hodges@temple.edu)
-- _Temple University Ambler Field Station_ 
+### **Ecology, Evolution, and Biodiversity B.S**
+[Email](mailto:gracehodges04@temple.edu)
 
 ## Education
 **Temple University | BS Ecology, Evolution, and Biodiversity**
 
-*Fall 2022 - Fall 2024*
-
 Temple University, College of Science and Technology, Philadelphia, PA 
 B.S. in Ecology, Evolution, and Biodiversity, 
-Anticipated Graduation: December 2024	
-Honors: Dean’s Scholarship, Dean’s List, GPA – 3.85 
+Graduated: May, 2025
+Honors: Dean’s Scholarship, Dean’s List 
 
 **Relevant Coursework** 
 Genetics, Advanced Study in Ecology, R Boot Camp for Ecologists and Wildlife Biologists, Global Change Science: Analytics with R. Ecology of Invasive Species, Marine Ecology, Human Ecology, Research Techniques in Community Ecology, Remote Sensing and GIS, Animal Behavior, Principles of Ecology, Natural History of Invertebrates, Comparative Animal Physiology, Ecology, Evolution and Organismal Biodiversity, Research Skills in Biology 
